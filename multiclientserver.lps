@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="7">
+      <Unit0>
+        <Filename Value="multiclientserver.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="108"/>
+        <CursorPos X="36" Y="126"/>
+        <UsageCount Value="23"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="../../../../fpcupdeluxe/main_ide/fpcsrc/rtl/objpas/classes/classesh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="313"/>
+        <CursorPos X="3" Y="298"/>
+        <UsageCount Value="10"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="../../../../fpcupdeluxe/main_ide/config_lazarus/onlinepackagemanager/packages/synapse40.1/blcksock.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="400"/>
+        <CursorPos X="15" Y="416"/>
+        <UsageCount Value="10"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="../../../../fpcupdeluxe/main_ide/config_lazarus/onlinepackagemanager/packages/synapse40.1/ssfpc.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="73"/>
+        <CursorPos X="3" Y="91"/>
+        <UsageCount Value="10"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="../../../../fpcupdeluxe/main_ide/fpcsrc/rtl/objpas/sysutils/datih.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="112"/>
+        <CursorPos X="10" Y="130"/>
+        <UsageCount Value="10"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="../../../../fpcupdeluxe/main_ide/fpcsrc/rtl/inc/systemh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="461"/>
+        <CursorPos X="3" Y="479"/>
+        <UsageCount Value="10"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="../../../../fpcupdeluxe/main_ide/fpcsrc/packages/fcl-base/src/contnrs.pp"/>
+        <UnitName Value="Contnrs"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="3" Y="31"/>
+        <UsageCount Value="10"/>
+      </Unit6>
+    </Units>
+    <JumpHistory Count="17" HistoryIndex="16">
+      <Position1>
+        <Filename Value="multiclientserver.lpr"/>
+        <Caret Line="13" Column="5"/>
+      </Position1>
+      <Position2>
+        <Filename Value="multiclientserver.lpr"/>
+        <Caret Line="18" Column="37"/>
+      </Position2>
+      <Position3>
+        <Filename Value="multiclientserver.lpr"/>
+        <Caret Line="17" Column="49" TopLine="3"/>
+      </Position3>
+      <Position4>
+        <Filename Value="multiclientserver.lpr"/>
+        <Caret Line="17" Column="49" TopLine="3"/>
+      </Position4>
+      <Position5>
+        <Filename Value="multiclientserver.lpr"/>
+        <Caret Line="29" Column="16" TopLine="6"/>
+      </Position5>
+      <Position6>
+        <Filename Value="multiclientserver.lpr"/>
+        <Caret Line="12" Column="17"/>
+      </Position6>
+      <Position7>
+        <Filename Value="multiclientserver.lpr"/>
+        <Caret Line="70" Column="84" TopLine="50"/>
+      </Position7>
+      <Position8>
+        <Filename Value="multiclientserver.lpr"/>
+        <Caret Line="20" Column="18" TopLine="2"/>
+      </Position8>
+      <Position9>
+        <Filename Value="multiclientserver.lpr"/>
+        <Caret Line="39" Column="67" TopLine="28"/>
+      </Position9>
+      <Position10>
+        <Filename Value="multiclientserver.lpr"/>
+        <Caret Line="15" Column="14"/>
+      </Position10>
+      <Position11>
+        <Filename Value="multiclientserver.lpr"/>
+        <Caret Line="24" Column="20" TopLine="6"/>
+      </Position11>
+      <Position12>
+        <Filename Value="multiclientserver.lpr"/>
+        <Caret Line="45" Column="47" TopLine="28"/>
+      </Position12>
+      <Position13>
+        <Filename Value="multiclientserver.lpr"/>
+        <Caret Line="27" Column="44" TopLine="16"/>
+      </Position13>
+      <Position14>
+        <Filename Value="multiclientserver.lpr"/>
+        <Caret Line="92" Column="36" TopLine="81"/>
+      </Position14>
+      <Position15>
+        <Filename Value="multiclientserver.lpr"/>
+        <Caret Line="101" Column="31" TopLine="85"/>
+      </Position15>
+      <Position16>
+        <Filename Value="multiclientserver.lpr"/>
+        <Caret Line="104" Column="20" TopLine="87"/>
+      </Position16>
+      <Position17>
+        <Filename Value="multiclientserver.lpr"/>
+        <Caret Line="114" Column="80" TopLine="93"/>
+      </Position17>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
