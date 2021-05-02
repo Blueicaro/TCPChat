@@ -22,6 +22,8 @@ If you use just FPC then do the following
 This server was tested on linux mint 20 and works fine! This will probably not work on windows. The reason being that the way it checks for disconnections. It reads the last error that syanpse reports and synapse reports the error code that the underlying socket library of the platform reports. I only implemented linux's error but not windows's or any other platform.
 
 # TODO
-1. Make it configurable via config file or cli parameters.
-2. Make it cross platform
-3. Maybe add more commands.
+- [ ] Make it configurable via config file or cli parameters.
+- [ ] Make it cross platform
+- [ ] Maybe add more commands.
+- [ ] Add ssl support, configurable via cli parameter or config file(like ssl certs and keys)
+- [ ] Add comments, seeing as this is ment for beginners to learn from
