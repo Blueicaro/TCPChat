@@ -19,7 +19,7 @@ If you use just FPC then do the following
 4. Now you can test out the server!
 
 # Supported platforms
-This server was tested on linux mint 20, windows and mac os and works fine! ~~This will probably not work on windows. The reason being that the way it checks for disconnections. It reads the last error that syanpse reports and synapse reports the error code that the underlying socket library of the platform reports. I only implemented linux's error but not windows's or any other platform.~~ Someone has tested this on windows and mac os and apperantly it works! I realize that in the code i don't read the error codes(which are different on every platform) but instead i read the error message(which seems to be the same on some platforms, well at least the connection reset by peer error is). So so far, linux and windows platforms work.
+This server was tested on linux mint 20, windows and mac os and works fine! ~~This will probably not work on windows. The reason being that the way it checks for disconnections. It reads the last error that syanpse reports and synapse reports the error code that the underlying socket library of the platform reports. I only implemented linux's error but not windows's or any other platform.~~ Someone has tested this on windows and mac os and apperantly it works! I realize that in the code i don't read the error codes(which are different on every platform) but instead i read the error message(which seems to be the same on some platforms, well at least the connection reset by peer error is). So so far, linux and windows and mac os platforms work.
 
 # TODO
 - [ ] Make it configurable via config file or cli parameters.
